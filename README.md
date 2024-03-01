@@ -13,6 +13,7 @@ Group project developed for the VARLab Game Jam
 - **Version Control System:** `Git & GitHub`
 - **Progroject Management:** [`Azure DevOps`](https://dev.azure.com/pandasaurusTEAM/2D_Platformer)
 - **IDE:** `Visual Studio`
+- **Youtube Link:** [Trailer](https://www.youtube.com/watch?v=qp5vWWdYKMs)
 
 ## Contributors (Alphabetical Order)
 
